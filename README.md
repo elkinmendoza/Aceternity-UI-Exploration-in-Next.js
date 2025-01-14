@@ -34,3 +34,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+## Dependencies
+
+This project relies on several key dependencies:
+
+- **React**: A JavaScript library for building user interfaces.
+- **Next.js**: A React framework for server-side rendering and generating static websites.
+- **TypeScript**: A superset of JavaScript that adds static types.
+- **ESLint**: A tool for identifying and fixing problems in JavaScript code.
+- **Prettier**: An opinionated code formatter.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Axios**: A promise-based HTTP client for making requests to APIs.
+- **Jest**: A testing framework for JavaScript.
+- **React Testing Library**: A library for testing React components.
+
+To see the full list of dependencies, check the `package.json` file in the root directory of the project.
