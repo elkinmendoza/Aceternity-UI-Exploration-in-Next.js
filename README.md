@@ -8,8 +8,7 @@ Discover the power of **Aceternity UI (ShadCN)** components within a **Next.js**
 
 | Light Theme                                                                 | Dark Theme                                                                 |
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| ![Light Theme - Home](./public/light-theme.png)                       | ![Dark Theme - Home](./screenshots/dark-home.png)                        |
-| ![Light Theme - Components](./screenshots/light-components.png)          | ![Dark Theme - Components](./screenshots/dark-theme.png)           |
+| ![Light Theme - Home](./public/ight-theme-website.png)                       | ![Dark Theme - Home](./screenshots/dark-theme.png)                        |
 
 ---
 
